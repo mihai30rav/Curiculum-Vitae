@@ -1,0 +1,38 @@
+#bar{
+  position: absolute;
+  height: 7px;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  background: #005889;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  width: 500px;;
+  padding: 20px;
+  bottom: 20px;
+}
+h3{
+  color:#005889;
+}
+.contact{
+  display: flex;
+  flex-direction: column;
+}
+.bold{
+  font-weight: bold;
+  color: black;
+}
+#sk{
+  display: flex;
+  flex-direction: row;
+}
+span{
+  color:#005889;
+}
+/* .objective:hover,.experience:hover, .skill:hover, .education:hover, .lvexp:hover, .achievement:hover, .contact:hover{
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: rgba(0, 0, 0, 0.4) -5px 5px, rgba(0, 0, 0, 0.3) -10px 10px, rgba(0, 46, 170, 0.2) -15px 15px, rgba(0, 0, 0, 0.1) -10px 10px, rgba(0, 0, 0, 0.05) -0 0;
+} */
